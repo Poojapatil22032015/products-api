@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.amazonaws:aws-java-sdk-s3:1.11.927">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/amazonaws/aws-java-sdk-s3/1.11.927/aws-java-sdk-s3-1.11.927.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/amazonaws/aws-java-sdk-s3/1.11.927/aws-java-sdk-s3-1.11.927-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/amazonaws/aws-java-sdk-s3/1.11.927/aws-java-sdk-s3-1.11.927-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
